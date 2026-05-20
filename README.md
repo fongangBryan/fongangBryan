@@ -1,16 +1,125 @@
-## Hi there 👋
+# 👋 Hi, I'm Bryan Fongang
 
-<!--
-**fongangBryan/fongangBryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science Graduate | Looking for a 12–24 month apprenticeship,Based in France, Passionate about scalable web applications, APIs & modern architectures
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+-  Currently working on genealogy and ERP web applications
+-  Learning advanced DevOps, CI/CD & cloud technologies
+-  Strong experience with FastAPI, Angular, Spring Boot & Django
+-  Love building performant APIs and modern frontend apps
+-  Bilingual: French 🇫🇷 & English 🇬🇧
+-  Reach me: **pol.fongang@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://portfolio-fongang-bryan.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://github.com/fongangBryan" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/bryan-fongang-a2a835284" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+## 👨‍💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,php,cs,javascript,typescript,sql" />
+</p>
+
+## ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,laravel,nodejs" />
+</p>
+
+## 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
+</p>
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
+</p>
+
+## ☁️ DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+### 🌳 Genealogy Management Platform
+> Full web application for creating and managing family trees  
+**Tech:** FastAPI, Angular, PostgreSQL
+
+---
+
+### 💊 Pharmacy Management System
+> Secure pharmacy management application with JWT authentication  
+**Tech:** Spring Boot, Angular, PostgreSQL
+
+---
+
+### 🏫 School ERP System
+> ERP modules for student, classroom and schedule management  
+**Tech:** Odoo, Python, PostgreSQL
+
+---
+
+### 📊 Accounting Web Application
+> Dashboard and billing management platform built during a hackathon  
+**Tech:** Django, PostgreSQL, Chart.js
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fongangBryan&show_icons=true&theme=tokyonight" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fongangBryan&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fongangBryan&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fongangBryan&theme=tokyonight&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
+# ✨ Quote
+
+```txt
+"Code is like humor. When you have to explain it, it’s bad."
