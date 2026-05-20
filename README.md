@@ -4,7 +4,7 @@ Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 -  Currently working on genealogy and ERP web applications
 -  Learning advanced DevOps, CI/CD & cloud technologies
@@ -15,7 +15,7 @@ Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science 
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="left">
 <a href="https://portfolio-fongang-bryan.vercel.app/" target="_blank">
@@ -33,55 +33,37 @@ Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science 
 
 ---
 
-# 💻 Tech Stack
-
-## 👨‍💻 Languages
+#  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,php,cs,javascript,typescript,sql" />
 </p>
 
-## ⚙️ Backend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi,django,spring,laravel,nodejs,angular,react,html,css,bootstrap" />
 </p>
 
-## 🎨 Frontend
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap" />
-</p>
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase" />
-</p>
-
-## ☁️ DevOps & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase,docker,git,github,linux,postman,vscode" />
 </p>
 
 ---
 
 # 📌 Featured Projects
 
-### 🌳 Genealogy Management Platform
+###  Genealogy Management Platform
 > Full web application for creating and managing family trees  
 **Tech:** FastAPI, Angular, PostgreSQL
 
 ---
 
-### 💊 Pharmacy Management System
+###  Pharmacy Management System
 > Secure pharmacy management application with JWT authentication  
 **Tech:** Spring Boot, Angular, PostgreSQL
 
 ---
 
-### 🏫 School ERP System
+###  School ERP System
 > ERP modules for student, classroom and schedule management  
 **Tech:** Odoo, Python, PostgreSQL
 
