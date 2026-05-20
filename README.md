@@ -93,16 +93,6 @@ Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fongangBryan&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fongangBryan&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -122,4 +112,4 @@ Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science 
 # ✨ Quote
 
 ```txt
-"Code is like humor. When you have to explain it, it’s bad."
+"Consistency is the key to meaningful progress."
