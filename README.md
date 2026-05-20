@@ -69,7 +69,7 @@ Full Stack Developer | DevOps Enthusiast | AI & Backend Lover, Computer Science 
 
 ---
 
-### 📊 Accounting Web Application
+###  Accounting Web Application
 > Dashboard and billing management platform built during a hackathon  
 **Tech:** Django, PostgreSQL, Chart.js
 
